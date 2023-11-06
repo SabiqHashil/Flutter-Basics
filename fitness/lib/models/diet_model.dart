@@ -32,7 +32,7 @@ class DietModel {
 
     diets.add(DietModel(
         name: 'Canai Bread',
-        iconPath: 'assets/icons/bread.svg',
+        iconPath: 'assets/icons/canai-bread.svg',
         level: 'Easy',
         duration: '20mins',
         calorie: '230kCal',
